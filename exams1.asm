@@ -1,4 +1,3 @@
-Θέμα 1:
 TITLE ASK1
 ASSUME CS:KODIKAS,DS:DATA
 KODIKAS SEGMENT                                      
